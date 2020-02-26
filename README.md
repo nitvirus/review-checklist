@@ -1,3 +1,5 @@
+Vesion-1.1
+
 Here is the checklist that one needs to check before sending a PR:
 
 1. No print_r, var_dump or similar calls exist
@@ -11,3 +13,4 @@ Here is the checklist that one needs to check before sending a PR:
 9.  No sensitive information is logged or visible
 10. Avoid nested If loops
 11. Use try and catch if possible.
+12. Try to use constants.
